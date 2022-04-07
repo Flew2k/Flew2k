@@ -1,7 +1,6 @@
 ### Activity
 
 <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Flew2k&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-
 <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Flew2k&theme=onedark&hide_border=true"/>
 
 ### Languages
