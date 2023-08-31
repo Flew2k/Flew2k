@@ -10,6 +10,10 @@
 
 ### Languages
 
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-NextJS-000?&logo=nextdotjs)
+![NodeJS](https://img.shields.io/badge/-nodejs-000?&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
